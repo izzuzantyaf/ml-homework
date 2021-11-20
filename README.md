@@ -3,7 +3,7 @@ Nama : **Izzu Zantya Fawwas**
 
 NIM  : **1103184004**
 
-Kelas : **TK-42-G7**
+Kelas : **TK-42-G5**
 <hr>
 
 ### Week 1
