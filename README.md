@@ -34,3 +34,24 @@ Kelas : **TK-42-G5**
 
 ### Week 7
 [XGBoost](https://www.kaggle.com/izzuzantyaf/xgboost)
+
+### Week 8
+[SVM](https://www.kaggle.com/izzuzantyaf/svm-classifier-tutorial)
+
+### Week 9
+[]()
+
+### Week 10
+[Visualize Training with TensorBoard](https://www.kaggle.com/izzuzantyaf/visualize-training-with-tensorboard)
+
+### Week 11
+[]()
+
+### Week 12
+[]()
+
+### Week 13
+[]()
+
+### Week 14
+[]()
