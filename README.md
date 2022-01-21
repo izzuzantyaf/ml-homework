@@ -45,10 +45,10 @@ Kelas : **TK-42-G5**
 [Visualize Training with TensorBoard](https://www.kaggle.com/izzuzantyaf/visualize-training-with-tensorboard)
 
 ### Week 11
-[]()
+[Convolutional Neural Network](https://github.com/izzuzantyaf/ml-homework/tree/main/Week%2011)
 
 ### Week 12
-[]()
+[Modern Convolution Neural Networks](https://github.com/izzuzantyaf/ml-homework/tree/main/Week%2012)
 
 ### Week 13
 []()
