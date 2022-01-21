@@ -39,7 +39,7 @@ Kelas : **TK-42-G5**
 [SVM](https://www.kaggle.com/izzuzantyaf/svm-classifier-tutorial)
 
 ### Week 9
-[]()
+[Multi Layer Perceptron and NN](https://github.com/izzuzantyaf/ml-homework/tree/main/Week%209)
 
 ### Week 10
 [Visualize Training with TensorBoard](https://www.kaggle.com/izzuzantyaf/visualize-training-with-tensorboard)
